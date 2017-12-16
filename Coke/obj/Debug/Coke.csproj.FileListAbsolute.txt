@@ -1,0 +1,10 @@
+D:\VS_Projects\Coke\Coke\bin\Debug\Coke.exe.config
+D:\VS_Projects\Coke\Coke\bin\Debug\Coke.exe
+D:\VS_Projects\Coke\Coke\bin\Debug\Coke.pdb
+D:\VS_Projects\Coke\Coke\obj\Debug\Coke.csprojResolveAssemblyReference.cache
+D:\VS_Projects\Coke\Coke\obj\Debug\Coke.Properties.Resources.resources
+D:\VS_Projects\Coke\Coke\obj\Debug\Coke.csproj.GenerateResource.Cache
+D:\VS_Projects\Coke\Coke\obj\Debug\Coke.csproj.CoreCompileInputs.cache
+D:\VS_Projects\Coke\Coke\obj\Debug\Coke.exe
+D:\VS_Projects\Coke\Coke\obj\Debug\Coke.pdb
+D:\VS_Projects\Coke\Coke\obj\Debug\Coke.Form1.resources

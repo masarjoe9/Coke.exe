@@ -1,0 +1,9 @@
+D:\VS_Projects\Coke\Coke\bin\Release\Coke.exe.config
+D:\VS_Projects\Coke\Coke\bin\Release\Coke.exe
+D:\VS_Projects\Coke\Coke\bin\Release\Coke.pdb
+D:\VS_Projects\Coke\Coke\obj\Release\Coke.Form1.resources
+D:\VS_Projects\Coke\Coke\obj\Release\Coke.Properties.Resources.resources
+D:\VS_Projects\Coke\Coke\obj\Release\Coke.csproj.GenerateResource.Cache
+D:\VS_Projects\Coke\Coke\obj\Release\Coke.csproj.CoreCompileInputs.cache
+D:\VS_Projects\Coke\Coke\obj\Release\Coke.exe
+D:\VS_Projects\Coke\Coke\obj\Release\Coke.pdb
